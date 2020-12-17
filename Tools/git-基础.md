@@ -13,7 +13,7 @@
 $ git clone {url}
 ```
 
-3、切换到 `thoeone` 目录下并初始化 
+3、切换到 `thoeone` 目录下并初始化 ``
 
 ```shell
 $ cd theone			
@@ -36,7 +36,7 @@ $ git commit -m "commit_info"
 7、将文件上传到 `github` 上
 
 ```shell
-$ git push origin			//$ git pudh -u origin master   --------这是第一次提交
+$ git push origin			//$ git push -u origin master   --------这是第一次提交
 ```
 
 ##### 二、如何团队协作
