@@ -16,7 +16,7 @@
 ​    原型对象 `B` 默认会有一个属性 `constructor`  指向了函数 `A`  (即 `constructor`属性的值是函数 `A` )。
 ​    原型对象默认只有属性`constructor` 。其他都是从 `Object` 继承而来。
 
-![](E:\notes\pictures\JavaScript\JavaScript的原型对象的彻底理解\原型对象_01.PNG)
+![](E:\notes\Pictures\JavaScript\JavaScript的原型对象的彻底理解\原型对象_01.png)
 
 正式开始： 举栗子讨论
 

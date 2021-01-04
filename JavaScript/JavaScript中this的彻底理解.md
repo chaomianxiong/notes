@@ -4,9 +4,7 @@
 
 先上图（图中的流程只针对于单个规则)
 
-![](E:\notes\Pictures\Javascript\JavaScript中this的彻底理解\this.PNG)
-
-
+![](E:\notes\Pictures\JavaScript\JavaScript中this的彻底理解\this.PNG)
 
 ### 解释
 
